@@ -6,3 +6,9 @@
   -Strings
   -Undefined
   -Null
+
+  ## Creating functions
+
+  function functionName() {
+    //Write something here
+  }
